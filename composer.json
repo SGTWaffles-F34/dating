@@ -1,0 +1,15 @@
+{
+  "name": "gsherman/dating",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gavin Sherman",
+      "email": "gavinmsherman@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
