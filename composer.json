@@ -1,8 +1,5 @@
 {
   "name": "gsherman/dating",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
   "authors": [
     {
       "name": "Gavin Sherman",
@@ -11,5 +8,8 @@
   ],
   "require": {
     "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["classes/", "model/", "controllers/"]
   }
 }
